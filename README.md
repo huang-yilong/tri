@@ -18,6 +18,8 @@
 go build
 ```
 
+在$HOME创建trido.json和.tri.yaml。
+
 ## 使用方法
 
 1. 添加任务:
